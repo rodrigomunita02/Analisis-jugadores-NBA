@@ -4,7 +4,7 @@
 
 Este repositorio contiene un análisis de datos sobre jugadores de la NBA, donde se han respondido varias preguntas importantes sobre la liga y sus jugadores. Los datos utilizados provienen de un archivo `.sqlite` y se realizaron las consultas necesarias utilizando SQL y Python. Se han utilizado las bibliotecas de Python, incluyendo NumPy, Pandas, SQLite3, Matplotlib y Seaborn.
 
-- **Data:** Archivo `.sqlite` con los datos originales de jugadores de la NBA.
+- **Data:** [Archivo `.sqlite`](https://drive.google.com/file/d/1lldM16gQ4cl6qNqclTth8B2otedmBchT/view?usp=drive_link) con los datos originales de jugadores de la NBA.
 - **Notebooks:** Carpeta que contiene el Jupyter Notebook utilizado para realizar el análisis y responder las preguntas planteadas.
 - **README.md:** Este archivo README que proporciona una descripción general del proyecto y su contenido.
 
